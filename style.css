@@ -1,0 +1,96 @@
+header{
+    position: relative;
+    width: 1300px;
+    height: 200px;
+    background: rgb(255, 102, 0);
+    margin: 20px auto;
+}
+.imagen{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 75px;
+    background: gray;
+    border-radius: 100%;
+}
+
+#red1{
+    right: 40px;
+}
+#red2{
+    right: 120px;
+}
+#red3{
+    right: 200px;
+}
+
+#logo{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    top: 40px;
+    left: 40px;
+    border-radius: 5%;
+    background: gray;
+}
+
+
+section {
+    position: relative;
+    background: blue;
+    width: 800px;
+    height: 1000px;
+    margin: 20px auto;
+}
+
+h1{
+    position: relative;
+    margin-left: 400px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 55px;
+    top: 70px;
+}
+
+h2{
+    position: relative;
+    margin-left: 300px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 35px;
+    top: 20px;
+}
+
+.letra{
+    position: relative;
+   font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    top: 20px;
+}
+.boton{
+    
+}
+
+aside{
+    position: absolute;
+    width: 240px;
+    height: 1000px;
+    margin: 25px;
+    top: -25px;
+    background: green;
+}
+
+#left{
+    margin-left: -250px;
+}
+#right{
+    right: 0px;
+    margin-right: -250px;
+}
+
+
+footer{
+    position: relative;
+    width: 1300px;
+    height: 100px;
+    margin-left: 25px;
+    background: yellow;
+}
